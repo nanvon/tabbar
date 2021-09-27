@@ -16,7 +16,12 @@ export default {
   },
   data() {
     return {
-      isActive: false
+      // isActive: false
+    }
+  },
+  computed: {
+    isActive() {
+      return this.$route.path.indexOf(this.path) !== -1
     }
   },
   methods: {
