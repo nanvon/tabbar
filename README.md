@@ -1,6 +1,14 @@
 # tabbar
 
 > A Vue.js project
+>
+> 一个简单的APP底栏tabbar，由vue全家桶实现
+>
+> vue v2.6.14
+>
+> vue-router v3.4.2
+>
+> vuex v3.6.2
 
 ## Build Setup
 
@@ -18,4 +26,5 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/)
+and [docs for vue-loader](http://vuejs.github.io/vue-loader).
