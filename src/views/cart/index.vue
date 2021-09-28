@@ -1,5 +1,8 @@
 <template>
-  <h2>购物车</h2>
+  <div>
+    <h2>购物车</h2>
+    <p>Store is {{ $store.getters.powerCounter }}</p>
+  </div>
 </template>
 
 <script>
