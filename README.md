@@ -2,7 +2,7 @@
 
 > A Vue.js project
 >
-> 一个简单的APP底栏tabbar，由vue全家桶实现
+> 一个简单的APP底栏tabbar，由vue全家桶和axios实现
 >
 > vue v2.6.14
 >
