@@ -31,7 +31,7 @@ export default {
     // });
 
     // axios发送并发请求
-    axios.all([axios({
+    /*axios.all([axios({
       url: '/user-agent'
     }), axios({
       url: '/ip'
@@ -41,7 +41,7 @@ export default {
         console.log(userAgent.data['user-agent'])
         console.log(ip.data['origin'])
       }
-    )
+    )*/
   }
 }
 </script>
